@@ -1,0 +1,6 @@
+psc-data-finadmin-admin
+psc-data-finadmin-budget
+psc-data-finadmin-director
+psc-data-records-setups
+psc-data
+psc-data-ro
