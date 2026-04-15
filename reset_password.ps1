@@ -1,4 +1,7 @@
 
+# Hong Danh Tran
+# Reset password for a user list, User must change their passwrod at the first logon  
+
 Import-Module ActiveDirectory
 
 
